@@ -83,13 +83,13 @@ GenerateClassCluster=0
 DocumentUniqueId=YIRAVFRO
 
 [Document3]
-DocumentPath=SCH\MF-CI.4.1-SDW - EXTERNAL.SchDoc
+DocumentPath=SCH\MF-CI.4.2-SDW - EXTERNAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
